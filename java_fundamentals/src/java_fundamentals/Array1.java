@@ -1,3 +1,4 @@
+package java_fundamentals;
 import java.util.*;
 public class Array1 {
 
@@ -17,6 +18,7 @@ public class Array1 {
 		}
 		System.out.println("Sum is: "+sum);
 		System.out.println("Average is: "+avg);
+
 	}
 
 }
